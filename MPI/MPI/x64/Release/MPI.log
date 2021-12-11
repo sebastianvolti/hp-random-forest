@@ -1,0 +1,8 @@
+﻿MPI.obj : error LNK2001: símbolo externo MPI_Recv sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Wait sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Send sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Comm_rank sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Comm_size sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Finalize sin resolver
+MPI.obj : error LNK2001: símbolo externo MPI_Init sin resolver
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\x64\Release\MPI.exe : fatal error LNK1120: 7 externos sin resolver

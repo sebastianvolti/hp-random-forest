@@ -1,0 +1,18 @@
+1 => Imprimir en esclavos
+1 => Imprimir en maestros
+8992 => Cantidad de instancias del dataset
+0 => Separar o no datos globales de evaluacion
+899 => Cantidad de instancias usadas para la evaluacion global (ver si se saca o no)
+1025 => Cantidad de atributos por instancia
+10 => Cantidad de iteraciones en validacion cruzada
+10 => Cantidad de particiones en validacion cruzada
+1 -> Usar hilos en los esclavos o no (0-no o 1-si)
+100 -> Cantidad de arboles por defecto
+100 -> Cantidad de instancias por defecto
+100 -> Cantidad de atributos por defecto
+0 -> Indice del hiperparametro a validar (0-arboles, 1-instancias, 2-atributos)
+4 -> Cantidad de valores para el hiperparametro a validar
+10 -> val1
+20 -> val2
+30 -> val3
+40 -> val4

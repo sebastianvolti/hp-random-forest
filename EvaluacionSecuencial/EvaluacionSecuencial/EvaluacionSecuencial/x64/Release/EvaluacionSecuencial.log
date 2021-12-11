@@ -1,0 +1,36 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(77,5): warning : El proceso no puede obtener acceso al archivo 'c:\users\jv\documents\aafing\computación de alta performance\hpc\evaluacionsecuencial\evaluacionsecuencial\evaluacionsecuencial\x64\release\vc142.pdb' porque está siendo utilizado en otro proceso.
+  EvaluacionSecuencial.cpp
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial.cpp(87,83): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial.cpp(97,110): warning C4267: 'argumento': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial.cpp(112,32): warning C4018: '<': no coinciden signed/unsigned
+  FileLoader.cpp
+  RandomForest.cpp
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(180,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(181,13): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(188,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(189,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(198,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(199,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(330,23): warning C4244: 'inicializando': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(331,23): warning C4244: 'inicializando': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(364,22): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(365,92): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(366,21): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(367,20): warning C4244: 'inicializando': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(416,32): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(442,53): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(487,25): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\EvaluacionSecuencial\RandomForest.cpp(507,25): warning C4244: '=': conversión de '__int64' a 'int'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 838 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  EvaluacionSecuencial.vcxproj -> C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\EvaluacionSecuencial\EvaluacionSecuencial\x64\Release\EvaluacionSecuencial.exe

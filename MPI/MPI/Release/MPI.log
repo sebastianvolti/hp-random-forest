@@ -1,0 +1,48 @@
+﻿  FileLoader.cpp
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\FileLoader.cpp(66,29): warning C4018: '<=': no coinciden signed/unsigned
+  MPI.cpp
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\MPI.cpp(203,130): warning C4244: 'argumento': conversión de '_Rep' a 'int'; posible pérdida de datos
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\MPI.cpp(239,33): warning C4018: '<': no coinciden signed/unsigned
+  RandomForest.cpp
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(116,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(139,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(149,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(159,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(169,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(178,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(179,13): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(186,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(187,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(196,15): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(197,13): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(237,20): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(261,21): warning C4566: el carácter representado por el nombre de carácter universal '\u251C' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(261,21): warning C4566: el carácter representado por el nombre de carácter universal '\u2500' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(261,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2514' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(261,35): warning C4566: el carácter representado por el nombre de carácter universal '\u2500' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(267,31): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(268,31): warning C4566: el carácter representado por el nombre de carácter universal '\u2502' no se puede representar en la página de códigos actual (1252)
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(328,23): warning C4244: 'inicializando': conversión de '_Ty1' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(329,23): warning C4244: 'inicializando': conversión de '_Ty2' a 'float'; posible pérdida de datos
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(362,22): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(363,92): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(364,21): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(365,20): warning C4244: 'inicializando': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\MPI\RandomForest.cpp(433,53): warning C4244: 'argumento': conversión de 'unsigned int' a 'float'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 1087 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  MPI.vcxproj -> C:\Users\JV\Documents\AaFIng\Computación de Alta Performance\hpc\MPI\Release\MPI.exe
